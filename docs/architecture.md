@@ -525,7 +525,7 @@ describe('E2E: Basic workflow', () => {
 
 ### 環境要件
 - **OS**: macOS 10.15以降、Linux (Ubuntu 20.04以降)、Windows (WSL2)
-- **Node.js**: 18.x以降 (LTSバージョン推奨)
+- **Node.js**: v22.x (LTS) 以降
 - **Git**: 2.30以降 (Git連携機能を使用する場合)
 - **最小メモリ**: 512MB (実際の使用量は100MB以下)
 - **必要ディスク容量**: 100MB (プログラム本体10MB + データ最大50MB + 余裕)
