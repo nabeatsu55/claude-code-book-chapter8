@@ -4,7 +4,7 @@
   "workspaceFolder": "/workspaces/claude-code-book-chapter8",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
-      "version": "lts"
+      "version": "22"
     },
     "ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {}
   },
